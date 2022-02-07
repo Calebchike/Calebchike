@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Calebchike
-- 👀 I’m interested in web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on web design project using Django framework
+- 💞️ I’m looking to collaborate on Web Design project using Django framework
 - 📫 How to reach me chikecaleb6@gmail.com
 
 <!---
