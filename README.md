@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Calebchike
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis/Data Science
 - 🌱 Part of my skillset are MS Excel, PowerBI, and basic Python programming and I’m currently learning SQL.
 - 📫 feel free to reach out to me via chikecaleb6@gmail.com or https://twitter.com/calebchike
 
