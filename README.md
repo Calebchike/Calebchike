@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Calebchike
-- 👀 I’m interested in Data Analysis/Data Science
-- 🌱 Part of my skillset are MS Excel, PowerBI, Python and MySQL I’m currently learning Python for Data Analysis.
+- 👀 I’m interested in Data Analysis, Machine Learning/AI
+- 🌱 Part of my skillset are MS Excel, PowerBI, Basic Python and MySQL.
 - 📫 feel free to reach out to me via chikecaleb6@gmail.com or https://twitter.com/calebchike
 
 <!---
